@@ -1,0 +1,17 @@
+Problems that are caused due to redundancy in the database
+1.Redundancy in DBMS gives rise to anomalies.
+
+2.Database anomalies are the faults in the database caused due to poor
+management of storing everything in the flat database.
+
+ANOMALIES in the relational model refer to inconsistencies or errors that can arise
+when working with relational databases, specifically in the context of data
+insertion, deletion, and modification.
+
+It can be removed with the process of Normalization.
+1
+2
+3
+4
+5
+
